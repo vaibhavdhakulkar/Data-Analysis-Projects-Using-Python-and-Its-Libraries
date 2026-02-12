@@ -1,6 +1,6 @@
-📊 Data Analysis Projects Using Python and Its Libraries
-📌 Overview
+# 📊 Data Analysis Projects Using Python and Its Libraries <br>
 
+📌 Overview: <br>
 This repository contains a collection of data analysis projects developed using Python and its powerful data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 The purpose of these projects is to practice data cleaning, exploratory data analysis (EDA), and data visualization while extracting meaningful insights from real-world datasets.
 
@@ -19,8 +19,7 @@ The purpose of these projects is to practice data cleaning, exploratory data ana
 - Seaborn
 - Jupyter Notebook
 
-📂 Projects Included
-
+📂 Projects Included <br>
 Some of the projects in this repository include:
 - 🛒 Blinkit Data Analysis – Sales and customer order analysis
 - 🍔 Swiggy Order Analysis – Weekly and monthly order trends
@@ -38,18 +37,14 @@ Some of the projects in this repository include:
 ▶️ How to Run the Projects
 
 Clone the repository:
-git clone https://github.com/your-username/Data-Analysis-Projects-Using-Python.git
-
+- git clone https://github.com/your-username/Data-Analysis-Projects-Using-Python.git
 
 Install required libraries:
-pip install pandas numpy matplotlib seaborn jupyter
-
+- pip install pandas numpy matplotlib seaborn jupyter
 
 Open Jupyter Notebook:
-jupyter notebook
-
-
-Run the project notebooks step by step.
+- jupyter notebook
+- Run the project notebooks step by step.
 
 📌 Learning Outcome:
 - By working on these projects, you will learn:
