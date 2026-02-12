@@ -22,10 +22,15 @@ Jupyter Notebook
 📂 Projects Included
 
 Some of the projects in this repository include:
+
 🛒 Blinkit Data Analysis – Sales and customer order analysis
+
 🍔 Swiggy Order Analysis – Weekly and monthly order trends
+
 📈 Sales Data Analysis – Revenue and product performance insights
+
 📊 Exploratory Data Analysis (EDA) on different datasets
+
 (More projects will be added regularly)
 
 🔍 Key Features:
