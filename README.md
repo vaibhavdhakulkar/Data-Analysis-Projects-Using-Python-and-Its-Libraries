@@ -5,11 +5,11 @@ This repository contains a collection of data analysis projects developed using 
 The purpose of these projects is to practice data cleaning, exploratory data analysis (EDA), and data visualization while extracting meaningful insights from real-world datasets.
 
 🎯 Objectives :
-Perform data cleaning and preprocessing
-Analyze datasets using Python
-Visualize trends and patterns using charts and graphs
-Gain hands-on experience with data analysis libraries
-Build a strong data analysis portfolio
+- Perform data cleaning and preprocessing
+- Analyze datasets using Python
+- Visualize trends and patterns using charts and graphs
+- Gain hands-on experience with data analysis libraries
+- Build a strong data analysis portfolio
 
 🛠️ Tools & Libraries Used:
 Python
