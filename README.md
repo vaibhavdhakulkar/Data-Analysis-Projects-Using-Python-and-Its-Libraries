@@ -11,8 +11,7 @@ Visualize trends and patterns using charts and graphs
 Gain hands-on experience with data analysis libraries
 Build a strong data analysis portfolio
 
-🛠️ Tools & Libraries Used
-
+🛠️ Tools & Libraries Used:
 Python
 Pandas
 NumPy
@@ -68,9 +67,6 @@ Improve documentation and visualization styles
 👨‍💻 Author
 Vaibhav Dhakulkar
 Data Analyst | Python | SQL | Power BI | Excel 
-
-Nice touch, Vaibhav 👌 This makes your repo more engaging and helps you grow on LinkedIn & YouTube too.
-Here’s a polished version of your Support section with LinkedIn + YouTube links and a friendly call to action:
 
 ⭐ Support
 If you find this repository useful, please consider supporting me by:
