@@ -4,7 +4,7 @@ This project analyzes Zomato restaurant data to uncover patterns in customer beh
 
 ## Key Insights:
 1. Restaurant Type Preference:
-- Majority of customers order from dining restaurants.
+Majority of customers order from dining restaurants.
   
 2. Votes by Restaurant Type:
 - Dining restaurants received the highest number of votes from customers.
